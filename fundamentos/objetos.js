@@ -13,3 +13,6 @@ const prod2 = {
     preco: 79.90,
 
 }
+
+// JSON diferente de um OBJETO
+
